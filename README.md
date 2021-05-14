@@ -30,5 +30,5 @@ The backend is build using Node and express, There are Three routes
 We are using jwt for session management, Hotel Router has all the CRUD operation routes, User Router is used for login and signup routes, Review Router is used to add or remove reviews.
 
 # Database
-Postgres is used as the database for this project, command for sql can be found in 
+Postgres is used as the database for this project, commands for sql can be found in 
 <a href="https://github.com/Kshashum/HotelReviewsDocker/blob/main/backend/db.sql" target="_blank">DB commands</a>
