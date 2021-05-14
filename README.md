@@ -33,6 +33,7 @@ We are using jwt for session management, Hotel Router has all the CRUD operation
 Postgres is used as the database for this project, commands for sql can be found in 
 <a href="https://github.com/Kshashum/HotelReviewsDocker/blob/main/backend/db.sql" target="_blank">DB commands</a>
 <br />
+
 The start commands for the frontend and backend are provided in their individual readme sections
 <br />
 <a href="https://github.com/Kshashum/HotelReviewsDocker/blob/main/backend/README.md" target="_blank">Backend</a>
